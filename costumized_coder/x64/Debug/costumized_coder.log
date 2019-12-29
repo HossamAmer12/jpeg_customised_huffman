@@ -1,0 +1,146 @@
+﻿  jpegencoder.cpp
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(25,14): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(66,24): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(72,64): warning C4244:  '=': conversion from '_Ty' to '_Ty', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(72,64): warning C4244:         with
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(72,64): warning C4244:         [
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(72,64): warning C4244:             _Ty=double
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(72,64): warning C4244:         ]
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(72,64): warning C4244:         and
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(72,64): warning C4244:         [
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(72,64): warning C4244:             _Ty=int
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(72,64): warning C4244:         ]
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(141,23): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(146,76): warning C4554:  '|': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(162,82): warning C4554:  '|': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(222,26): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(233,25): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(243,26): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(253,25): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(263,25): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(273,26): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(283,25): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(293,26): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(144,51): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(197,51): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(237,30): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(240,95): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(257,34): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(261,101): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(361,25): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(362,24): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(373,28): warning C4018:  '<': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(374,32): warning C4018:  '<': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(379,86): warning C4244:  'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(393,38): warning C4018:  '>=': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(400,42): warning C4018:  '>=': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(678,21): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(679,20): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(701,24): warning C4018:  '<': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(702,28): warning C4018:  '<': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(711,34): warning C4018:  '>=': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(718,38): warning C4018:  '>=': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(909,20): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1060,40): warning C4244:  'argument': conversion from 'double' to 'const _Ty', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1060,40): warning C4244:         with
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1060,40): warning C4244:         [
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1060,40): warning C4244:             _Ty=char
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1060,40): warning C4244:         ]
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1064,48): warning C4244:  'argument': conversion from 'double' to 'const _Ty', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1064,48): warning C4244:         with
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1064,48): warning C4244:         [
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1064,48): warning C4244:             _Ty=char
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1064,48): warning C4244:         ]
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1068,44): warning C4244:  'argument': conversion from 'double' to 'const _Ty', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1068,44): warning C4244:         with
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1068,44): warning C4244:         [
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1068,44): warning C4244:             _Ty=char
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1068,44): warning C4244:         ]
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1078,48): warning C4244:  'argument': conversion from 'double' to 'const _Ty', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1078,48): warning C4244:         with
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1078,48): warning C4244:         [
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1078,48): warning C4244:             _Ty=char
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1078,48): warning C4244:         ]
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1082,44): warning C4244:  'argument': conversion from 'double' to 'const _Ty', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1082,44): warning C4244:         with
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1082,44): warning C4244:         [
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1082,44): warning C4244:             _Ty=char
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1082,44): warning C4244:         ]
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1180,51): warning C4267:  'argument': conversion from 'size_t' to 'uint_8', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(2683,56): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(2772,56): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(2788,18): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(2789,17): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(2842,29): warning C4018:  '<': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(2844,31): warning C4018:  '<': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(2879,18): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(2880,17): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(2892,33): warning C4018:  '<': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(2893,34): warning C4018:  '<': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(2929,40): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(3159,65): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(3164,84): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1457,1): warning C4244:  'argument': conversion from '_Cv_TiD' to 'const int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1457,1): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1457,1): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1457,1): warning C4244:             _Cv_TiD=unsigned __int64
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1457,1): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1457): message :  see reference to function template instantiation 'void std::_Invoker_functor::_Call<_Cv_FD&,_Cv_TiD&,_Cv_TiD&,int&>(_Callable,_Cv_TiD &,_Cv_TiD &,int &) noexcept(false)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1457): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1457): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1457): message :             _Cv_FD=runEncoderWithMultipleQF::<lambda_0b76c81785aa809f6166896a6f4d88b1>,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1457): message :             _Cv_TiD=unsigned __int64,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1457): message :             _Callable=runEncoderWithMultipleQF::<lambda_0b76c81785aa809f6166896a6f4d88b1> &
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1457): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1491): message :  see reference to function template instantiation 'void std::invoke<_Cv_FD&,_Cv_TiD&,_Cv_TiD&,int&>(_Callable,_Cv_TiD &,_Cv_TiD &,int &) noexcept(false)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1491): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1491): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1491): message :             _Cv_FD=runEncoderWithMultipleQF::<lambda_0b76c81785aa809f6166896a6f4d88b1>,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1491): message :             _Cv_TiD=unsigned __int64,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1491): message :             _Callable=runEncoderWithMultipleQF::<lambda_0b76c81785aa809f6166896a6f4d88b1> &
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1491): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\functional(1484): message :  see reference to function template instantiation 'void std::_Invoker_ret<std::_Unforced,false>::_Call<_Cv_FD&,_Cv_TiD&,_Cv_TiD&,int&>(_Cv_FD &,_Cv_TiD &,_Cv_TiD &,int &)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\functional(1484): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\functional(1484): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\functional(1484): message :             _Cv_FD=runEncoderWithMultipleQF::<lambda_0b76c81785aa809f6166896a6f4d88b1>,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\functional(1484): message :             _Cv_TiD=unsigned __int64
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\functional(1484): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\functional(1531): message :  see reference to function template instantiation 'void std::_Call_binder<std::_Unforced,0,1,2,_Ty1,_Ty2,std::tuple<>>(std::_Invoker_ret<std::_Unforced,false>,std::integer_sequence<unsigned __int64,0,1,2>,_Cv_FD &,_Cv_tuple_TiD &,_Untuple &&)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\functional(1531): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\functional(1531): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\functional(1531): message :             _Ty1=runEncoderWithMultipleQF::<lambda_0b76c81785aa809f6166896a6f4d88b1>,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\functional(1531): message :             _Ty2=std::tuple<unsigned __int64,unsigned __int64,int>,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\functional(1531): message :             _Cv_FD=runEncoderWithMultipleQF::<lambda_0b76c81785aa809f6166896a6f4d88b1>,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\functional(1531): message :             _Cv_tuple_TiD=std::tuple<unsigned __int64,unsigned __int64,int>,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\functional(1531): message :             _Untuple=std::tuple<>
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\functional(1531): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1457): message :  see reference to function template instantiation 'void std::_Binder<std::_Unforced,runEncoderWithMultipleQF::<lambda_0b76c81785aa809f6166896a6f4d88b1>,size_t,size_t,int &>::operator ()<>(void)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1457): message :  see reference to function template instantiation 'void std::_Binder<std::_Unforced,runEncoderWithMultipleQF::<lambda_0b76c81785aa809f6166896a6f4d88b1>,size_t,size_t,int &>::operator ()<>(void)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1457): message :  see reference to function template instantiation 'void std::_Invoker_functor::_Call<_Ty,>(_Callable &&) noexcept(false)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1457): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1457): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1457): message :             _Ty=std::_Binder<std::_Unforced,runEncoderWithMultipleQF::<lambda_0b76c81785aa809f6166896a6f4d88b1>,size_t,size_t,int &>,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1457): message :             _Callable=std::_Binder<std::_Unforced,runEncoderWithMultipleQF::<lambda_0b76c81785aa809f6166896a6f4d88b1>,size_t,size_t,int &>
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\type_traits(1457): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\thread(35): message :  see reference to function template instantiation 'void std::invoke<std::_Binder<std::_Unforced,runEncoderWithMultipleQF::<lambda_0b76c81785aa809f6166896a6f4d88b1>,size_t,size_t,int &>,>(_Callable &&) noexcept(false)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\thread(35): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\thread(35): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\thread(35): message :             _Callable=std::_Binder<std::_Unforced,runEncoderWithMultipleQF::<lambda_0b76c81785aa809f6166896a6f4d88b1>,size_t,size_t,int &>
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\thread(35): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\thread(46): message :  see reference to function template instantiation 'unsigned int std::thread::_Invoke<_Tuple,0>(void *) noexcept' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\thread(46): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\thread(46): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\thread(46): message :             _Tuple=_Tuple
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\thread(46): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\thread(52): message :  see reference to function template instantiation 'unsigned int (__cdecl *std::thread::_Get_invoke<_Tuple,0>(std::integer_sequence<unsigned __int64,0>) noexcept)(void *)' being compiled
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoderMultipleQF.h(94): message :  see reference to function template instantiation 'std::thread::thread<std::_Binder<std::_Unforced,runEncoderWithMultipleQF::<lambda_0b76c81785aa809f6166896a6f4d88b1>,size_t,size_t,int &>,,void>(_Fn &&)' being compiled
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoderMultipleQF.h(94): message :         with
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoderMultipleQF.h(94): message :         [
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoderMultipleQF.h(94): message :             _Fn=std::_Binder<std::_Unforced,runEncoderWithMultipleQF::<lambda_0b76c81785aa809f6166896a6f4d88b1>,size_t,size_t,int &>
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoderMultipleQF.h(94): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\chrono(591): message :  see reference to class template instantiation 'std::chrono::duration<double,std::ratio<1,1>>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\chrono(169): message :  see reference to class template instantiation 'std::chrono::duration<__int64,std::nano>' being compiled
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\chrono(570): message :  see reference to class template instantiation 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::steady_clock::duration>' being compiled
+  costumized_coder.vcxproj -> D:\Research\costunized_jpg\costumized_coder\x64\Debug\costumized_coder.exe

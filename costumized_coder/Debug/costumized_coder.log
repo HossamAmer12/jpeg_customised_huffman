@@ -1,0 +1,88 @@
+﻿  jpegencoder.cpp
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\tcm.h(267,45): warning C4018:  '<=': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(25,14): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(66,24): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(72,64): warning C4244:  '=': conversion from '_Ty' to '_Ty', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(72,64): warning C4244:         with
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(72,64): warning C4244:         [
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(72,64): warning C4244:             _Ty=double
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(72,64): warning C4244:         ]
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(72,64): warning C4244:         and
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(72,64): warning C4244:         [
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(72,64): warning C4244:             _Ty=int
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(72,64): warning C4244:         ]
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(141,23): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(146,76): warning C4554:  '|': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(162,82): warning C4554:  '|': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(222,26): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(233,25): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(243,26): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(253,25): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(263,25): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(273,26): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(283,25): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\operation.h(293,26): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(137,51): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(190,51): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(229,30): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(232,95): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(249,34): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(253,101): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(310,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(344,59): warning C4018:  '<': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(353,25): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(354,24): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(365,28): warning C4018:  '<': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(366,32): warning C4018:  '<': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(371,86): warning C4244:  'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(385,38): warning C4018:  '>=': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(392,42): warning C4018:  '>=': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(670,21): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(671,20): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(693,24): warning C4018:  '<': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(694,28): warning C4018:  '<': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(703,34): warning C4018:  '>=': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(710,38): warning C4018:  '>=': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(901,20): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1052,40): warning C4244:  'argument': conversion from 'double' to 'const _Ty', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1052,40): warning C4244:         with
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1052,40): warning C4244:         [
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1052,40): warning C4244:             _Ty=char
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1052,40): warning C4244:         ]
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1056,48): warning C4244:  'argument': conversion from 'double' to 'const _Ty', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1056,48): warning C4244:         with
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1056,48): warning C4244:         [
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1056,48): warning C4244:             _Ty=char
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1056,48): warning C4244:         ]
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1060,44): warning C4244:  'argument': conversion from 'double' to 'const _Ty', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1060,44): warning C4244:         with
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1060,44): warning C4244:         [
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1060,44): warning C4244:             _Ty=char
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1060,44): warning C4244:         ]
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1070,48): warning C4244:  'argument': conversion from 'double' to 'const _Ty', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1070,48): warning C4244:         with
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1070,48): warning C4244:         [
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1070,48): warning C4244:             _Ty=char
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1070,48): warning C4244:         ]
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1074,44): warning C4244:  'argument': conversion from 'double' to 'const _Ty', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1074,44): warning C4244:         with
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1074,44): warning C4244:         [
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1074,44): warning C4244:             _Ty=char
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1074,44): warning C4244:         ]
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1172,51): warning C4267:  'argument': conversion from 'size_t' to 'uint_8', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1532,27): warning C4018:  '<': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(1564,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(2734,18): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(2735,17): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(2765,30): warning C4018:  '<': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(2767,31): warning C4018:  '<': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(2796,18): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(2797,17): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(2808,33): warning C4018:  '<': signed/unsigned mismatch
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(2809,34): warning C4018:  '<': signed/unsigned mismatch
+  main.cpp
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoder.cpp(2846,40): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\tcm.h(267,45): warning C4018:  '<=': signed/unsigned mismatch
+  Generating Code...
+D:\Research\costunized_jpg\costumized_coder\costumized_coder\jpegencoderMultipleQF.h(45,26): warning C4018:  '<': signed/unsigned mismatch
+  costumized_coder.vcxproj -> D:\Research\costunized_jpg\costumized_coder\Debug\costumized_coder.exe
